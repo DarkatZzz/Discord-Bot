@@ -2,6 +2,8 @@
 
 Este proyecto es un bot de música en Discord, diseñado para permitir a los usuarios reproducir, pausar, reanudar, saltar y detener canciones de YouTube en un servidor de Discord. El bot también admite la administración de una cola de reproducción para una experiencia de escucha ininterrumpida.
 
+El proyecto se encuentra en fase beta y aun no posee todas las capacidades para dar por concluido este proyecto
+
   ## Características
 
     - Reproducir canciones de YouTube a través de URL o términos de búsqueda
